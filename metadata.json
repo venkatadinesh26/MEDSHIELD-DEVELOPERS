@@ -1,0 +1,7 @@
+{
+  "name": "Smart Care: A Healthy Archive",
+  "description": "AI-Powered Digital Healthcare Platform by MedShield Developers featuring Unique Health IDs, Longitudinal Medical Timelines, Duplicate-Test Awareness, and Consent-Based Record Sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
